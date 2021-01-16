@@ -1,10 +1,10 @@
-## Datasets and scripts for the research on Gene Expression Programming Fuzzy Rules (GPR)
+## Datasets and scripts for the research on Gene Expression Programming Fuzzy Rules
 
 ### Files
-* **[datasets.zip](https://github.com/michalmadera/gep-fuzzy-rules-datasets/blob/master/datasets.zip)** – all training and testing data split into folds
-* **genexpro.zip** – all job definition files and projects for the experiments
+* **[datasets.zip](https://github.com/michalmadera/gep-fuzzy-rules-datasets/blob/master/datasets.zip)** – All training and testing data split into folds
+* **genexpro.zip** – Job definition files and projects for the experiments (Due to github space limit only BCW files. Email me for more.)
 * **[genexpro-api.zip](https://github.com/michalmadera/gep-fuzzy-rules-datasets/blob/master/genexpro-api.zip)** – .NET project for automated discovery and management of models
-* **[results.zip](https://github.com/michalmadera/gep-fuzzy-rules-datasets/blob/master/results.zip)** – intermediate and final result values in excel files
+* **[results.zip](https://github.com/michalmadera/gep-fuzzy-rules-datasets/blob/master/results.zip)** – Intermediate and final result values in excel files
 
 ### Algorithms - 22
 * FARC-HD (FAR) 
