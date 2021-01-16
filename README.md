@@ -1,4 +1,4 @@
-# Datasets and scripts for the research on Gene Expression Programming Fuzzy Rules (GPR)
+## Datasets and scripts for the research on Gene Expression Programming Fuzzy Rules (GPR)
 
 ### Files
 * **datasets.zip** – all training and testing data split into folds
